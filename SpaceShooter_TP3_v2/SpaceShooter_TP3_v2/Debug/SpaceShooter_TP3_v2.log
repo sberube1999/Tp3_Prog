@@ -1,0 +1,126 @@
+﻿  WeaponGenerator.cpp
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\projectile.h(23): warning C4091: 'static ' : ignoré à gauche de 'spaceShooter::Projectile::ProjectileType' quand aucune variable n'est déclarée
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\weapon.h(15): warning C4091: 'static ' : ignoré à gauche de 'spaceShooter::Weapon::WeaponType' quand aucune variable n'est déclarée
+  Weapon.cpp
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\projectile.h(23): warning C4091: 'static ' : ignoré à gauche de 'spaceShooter::Projectile::ProjectileType' quand aucune variable n'est déclarée
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\weapon.h(15): warning C4091: 'static ' : ignoré à gauche de 'spaceShooter::Weapon::WeaponType' quand aucune variable n'est déclarée
+  Testeur.cpp
+  Subject.cpp
+  StaticSubject.cpp
+  Star.cpp
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\star.h(30): warning C4244: 'argument' : conversion de 'double' en 'sf::Uint8', perte possible de données
+  Spawner.cpp
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\enemy.h(4): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\projectile.h(23): warning C4091: 'static ' : ignoré à gauche de 'spaceShooter::Projectile::ProjectileType' quand aucune variable n'est déclarée
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\weapon.h(15): warning C4091: 'static ' : ignoré à gauche de 'spaceShooter::Weapon::WeaponType' quand aucune variable n'est déclarée
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\spawner.h(12): warning C4091: 'static ' : ignoré à gauche de 'spaceShooter::Spawner' quand aucune variable n'est déclarée
+  Spaceship.cpp
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\bonus.h(17): warning C4091: 'static ' : ignoré à gauche de 'spaceShooter::Bonus::BonusType' quand aucune variable n'est déclarée
+  ScoreBonus.cpp
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\bonus.h(17): warning C4091: 'static ' : ignoré à gauche de 'spaceShooter::Bonus::BonusType' quand aucune variable n'est déclarée
+  ProjectileGenerator.cpp
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\projectile.h(23): warning C4091: 'static ' : ignoré à gauche de 'spaceShooter::Projectile::ProjectileType' quand aucune variable n'est déclarée
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\weapon.h(15): warning C4091: 'static ' : ignoré à gauche de 'spaceShooter::Weapon::WeaponType' quand aucune variable n'est déclarée
+  Projectile.cpp
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\projectile.h(23): warning C4091: 'static ' : ignoré à gauche de 'spaceShooter::Projectile::ProjectileType' quand aucune variable n'est déclarée
+  Player.cpp
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\projectile.h(23): warning C4091: 'static ' : ignoré à gauche de 'spaceShooter::Projectile::ProjectileType' quand aucune variable n'est déclarée
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\weapon.h(15): warning C4091: 'static ' : ignoré à gauche de 'spaceShooter::Weapon::WeaponType' quand aucune variable n'est déclarée
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\star.h(30): warning C4244: 'argument' : conversion de 'double' en 'sf::Uint8', perte possible de données
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\player.cpp(146): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+  Observer.cpp
+  MainMenu.cpp
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\mainmenu.cpp(41): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\mainmenu.cpp(46): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+  Main.cpp
+  Kamikaze.cpp
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\enemy.h(4): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\projectile.h(23): warning C4091: 'static ' : ignoré à gauche de 'spaceShooter::Projectile::ProjectileType' quand aucune variable n'est déclarée
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\weapon.h(15): warning C4091: 'static ' : ignoré à gauche de 'spaceShooter::Weapon::WeaponType' quand aucune variable n'est déclarée
+  GlobalMath.cpp
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\star.h(30): warning C4244: 'argument' : conversion de 'double' en 'sf::Uint8', perte possible de données
+  GameStyle.cpp
+  GameScene.cpp
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\star.h(30): warning C4244: 'argument' : conversion de 'double' en 'sf::Uint8', perte possible de données
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\projectile.h(23): warning C4091: 'static ' : ignoré à gauche de 'spaceShooter::Projectile::ProjectileType' quand aucune variable n'est déclarée
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\weapon.h(15): warning C4091: 'static ' : ignoré à gauche de 'spaceShooter::Weapon::WeaponType' quand aucune variable n'est déclarée
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\enemy.h(4): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\bonus.h(17): warning C4091: 'static ' : ignoré à gauche de 'spaceShooter::Bonus::BonusType' quand aucune variable n'est déclarée
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\gamescene.cpp(88): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\gamescene.cpp(94): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\gamescene.cpp(100): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\gamescene.cpp(106): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\gamescene.cpp(112): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\gamescene.cpp(118): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\gamescene.cpp(124): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\gamescene.cpp(149): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\gamescene.cpp(160): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\gamescene.cpp(397): warning C4101: 'playerHealthPoints' : variable locale non référencée
+  Game.cpp
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\star.h(30): warning C4244: 'argument' : conversion de 'double' en 'sf::Uint8', perte possible de données
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\projectile.h(23): warning C4091: 'static ' : ignoré à gauche de 'spaceShooter::Projectile::ProjectileType' quand aucune variable n'est déclarée
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\weapon.h(15): warning C4091: 'static ' : ignoré à gauche de 'spaceShooter::Weapon::WeaponType' quand aucune variable n'est déclarée
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\enemy.h(4): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\bonus.h(17): warning C4091: 'static ' : ignoré à gauche de 'spaceShooter::Bonus::BonusType' quand aucune variable n'est déclarée
+  Génération de code en cours...
+  Compilation en cours...
+  Enemy.cpp
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\enemy.h(4): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\projectile.h(23): warning C4091: 'static ' : ignoré à gauche de 'spaceShooter::Projectile::ProjectileType' quand aucune variable n'est déclarée
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\weapon.h(15): warning C4091: 'static ' : ignoré à gauche de 'spaceShooter::Weapon::WeaponType' quand aucune variable n'est déclarée
+  EndScreen.cpp
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\endscreen.cpp(42): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\endscreen.cpp(47): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\endscreen.cpp(52): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+  Button.cpp
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\button.cpp(32): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\button.cpp(32): warning C4244: 'argument' : conversion de 'const int' en 'float', perte possible de données
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\button.cpp(36): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\button.cpp(116): warning C4244: 'return' : conversion de 'unsigned int' en 'float', perte possible de données
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\button.cpp(125): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\button.cpp(133): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\button.cpp(139): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\button.cpp(143): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\button.cpp(144): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\button.cpp(160): warning C4018: '>' : incompatibilité signed/unsigned
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\button.cpp(173): warning C4018: '>=' : incompatibilité signed/unsigned
+  BonusFabric.cpp
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\bonus.h(17): warning C4091: 'static ' : ignoré à gauche de 'spaceShooter::Bonus::BonusType' quand aucune variable n'est déclarée
+  Bonus.cpp
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\bonus.h(17): warning C4091: 'static ' : ignoré à gauche de 'spaceShooter::Bonus::BonusType' quand aucune variable n'est déclarée
+  Bombe.cpp
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\projectile.h(23): warning C4091: 'static ' : ignoré à gauche de 'spaceShooter::Projectile::ProjectileType' quand aucune variable n'est déclarée
+  BasicEnemy.cpp
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\enemy.h(4): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\projectile.h(23): warning C4091: 'static ' : ignoré à gauche de 'spaceShooter::Projectile::ProjectileType' quand aucune variable n'est déclarée
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\weapon.h(15): warning C4091: 'static ' : ignoré à gauche de 'spaceShooter::Weapon::WeaponType' quand aucune variable n'est déclarée
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\star.h(30): warning C4244: 'argument' : conversion de 'double' en 'sf::Uint8', perte possible de données
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\bonus.h(17): warning C4091: 'static ' : ignoré à gauche de 'spaceShooter::Bonus::BonusType' quand aucune variable n'est déclarée
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\basicenemy.cpp(90): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+  Background.cpp
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\star.h(30): warning C4244: 'argument' : conversion de 'double' en 'sf::Uint8', perte possible de données
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\background.cpp(15): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\background.cpp(22): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\background.cpp(23): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\background.cpp(27): warning C4018: '<' : incompatibilité signed/unsigned
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\background.cpp(31): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\background.cpp(42): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\background.cpp(43): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\background.cpp(50): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\background.cpp(51): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\background.cpp(54): warning C4244: '=' : conversion de 'unsigned int' en 'float', perte possible de données
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\background.cpp(55): warning C4244: '=' : conversion de 'unsigned int' en 'float', perte possible de données
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\background.cpp(57): warning C4244: '=' : conversion de 'unsigned int' en 'float', perte possible de données
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\background.cpp(67): warning C4244: 'argument' : conversion de 'unsigned int' en 'float', perte possible de données
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\background.cpp(79): warning C4018: '<' : incompatibilité signed/unsigned
+d:\spaceshooter_tp3_v2\spaceshooter_tp3_v2\background.cpp(99): warning C4018: '<' : incompatibilité signed/unsigned
+  Génération de code en cours...
+  SpaceShooter_TP3_v2.vcxproj -> D:\SpaceShooter_TP3_v2\Debug\SpaceShooter_TP3_v2.exe
+  SpaceShooter_TP3_v2.vcxproj -> D:\SpaceShooter_TP3_v2\Debug\SpaceShooter_TP3_v2.pdb (Full PDB)
+  D:\LibrairiesProgrammation\SFML-2.4.2\bin\Debug\openal32.dll
+  D:\LibrairiesProgrammation\SFML-2.4.2\bin\Debug\sfml-audio-d-2.dll
+  D:\LibrairiesProgrammation\SFML-2.4.2\bin\Debug\sfml-graphics-d-2.dll
+  D:\LibrairiesProgrammation\SFML-2.4.2\bin\Debug\sfml-network-d-2.dll
+  D:\LibrairiesProgrammation\SFML-2.4.2\bin\Debug\sfml-system-d-2.dll
+  D:\LibrairiesProgrammation\SFML-2.4.2\bin\Debug\sfml-window-d-2.dll
+  6 fichier(s) copié(s)
