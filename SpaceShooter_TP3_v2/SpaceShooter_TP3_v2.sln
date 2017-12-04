@@ -5,16 +5,30 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SpaceShooter_TP3_v2", "SpaceShooter_TP3_v2\SpaceShooter_TP3_v2.vcxproj", "{0D00CDF3-85D5-4D70-89D7-3264B8538CD1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestsSpaceShooter", "TestsSpaceShooter\TestsSpaceShooter.vcxproj", "{6693823B-CDA0-4D03-88B3-B52E9F6D9796}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
 		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D00CDF3-85D5-4D70-89D7-3264B8538CD1}.Debug|x64.ActiveCfg = Debug|Win32
 		{0D00CDF3-85D5-4D70-89D7-3264B8538CD1}.Debug|x86.ActiveCfg = Debug|Win32
 		{0D00CDF3-85D5-4D70-89D7-3264B8538CD1}.Debug|x86.Build.0 = Debug|Win32
+		{0D00CDF3-85D5-4D70-89D7-3264B8538CD1}.Release|x64.ActiveCfg = Release|Win32
 		{0D00CDF3-85D5-4D70-89D7-3264B8538CD1}.Release|x86.ActiveCfg = Release|Win32
 		{0D00CDF3-85D5-4D70-89D7-3264B8538CD1}.Release|x86.Build.0 = Release|Win32
+		{6693823B-CDA0-4D03-88B3-B52E9F6D9796}.Debug|x64.ActiveCfg = Debug|x64
+		{6693823B-CDA0-4D03-88B3-B52E9F6D9796}.Debug|x64.Build.0 = Debug|x64
+		{6693823B-CDA0-4D03-88B3-B52E9F6D9796}.Debug|x86.ActiveCfg = Debug|Win32
+		{6693823B-CDA0-4D03-88B3-B52E9F6D9796}.Debug|x86.Build.0 = Debug|Win32
+		{6693823B-CDA0-4D03-88B3-B52E9F6D9796}.Release|x64.ActiveCfg = Release|x64
+		{6693823B-CDA0-4D03-88B3-B52E9F6D9796}.Release|x64.Build.0 = Release|x64
+		{6693823B-CDA0-4D03-88B3-B52E9F6D9796}.Release|x86.ActiveCfg = Release|Win32
+		{6693823B-CDA0-4D03-88B3-B52E9F6D9796}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
